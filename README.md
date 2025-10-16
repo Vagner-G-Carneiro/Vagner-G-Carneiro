@@ -8,7 +8,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na UTFPR com muita satis
 <br>
 Meu foco profissional é trabalhar com Infraestrutura, aqui você encontrará projetos de todos os tipos, desde desenvolvimento Full-Stack em várias linguagens e técnologias, "pequenos projetinhos" e até mesmo algumas aventuras com Hacking.
 <br><br>
-Seja bem vindo!
+Seja bem vindo! :D
 
 ---
 
